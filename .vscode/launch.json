@@ -1,0 +1,10 @@
+{
+  "configurations": [
+    {
+      "type": "msedge",
+      "name": "http://127.0.0.1:3000/index.html?serverWindowId=f674f99f-efc8-48cb-b5fc-906083877c82",
+      "request": "launch",
+      "url": "http://127.0.0.1:3000/index.html?serverWindowId=f674f99f-efc8-48cb-b5fc-906083877c82"
+    }
+  ]
+}
